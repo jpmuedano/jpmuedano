@@ -13,7 +13,7 @@
 ### 📫 How to reach me:
 
 - [LinkedIn](https://www.linkedin.com/in/paixmuedano/)
-- [Email](jp.muedano@spoton.com)
+- [Email me](mailto:jp.muedano@spoton.com)
 
 ### 🔧 Technologies & Tools:
 
