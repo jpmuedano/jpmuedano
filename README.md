@@ -7,7 +7,7 @@
 <div id="about me" align="center">
   🚀 About Me
 <br>
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenByMGdsYnd1NzZwc2k3Nm9pamdsOHRjbTgwNmg0dXluN2ZpOTNxNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.gif" width="100">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA5dXVkMWJrdXowZGZ6aXd5OWNxcnFrMjdvbjM3MWhzanFiN3ptbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k3V2wgKkOPLPgwcXvq/giphy.gif" width="100">
 <br>
 <h4>
   I am a Staff Software engineer with experience in all stages of the development lifecycle 
