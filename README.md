@@ -28,9 +28,9 @@
   <br>
   <img src="https://media.giphy.com/media/SEj41wXuf54ClRlu6x/giphy.gif" width="100">
   <br>
-  <p><b>Languages:</b> Kotlin, Swift, Java, React, JavaScript, HTML, CSS, C++, Python</p>
-  <p><b>Platforms:</b> Android, iOS, Kotlin Multiplatform, Node.js, Web, Micro-Controllers</p>
-  <p><b>Tools:</b> Git, Gradle, Android Studio, VSCode, Fleet, Terminal</p>
+  <p><b>Languages:</b> Kotlin, Swift, Java, C++, Python</p>
+  <p><b>Platforms:</b> Android, iOS, Kotlin Multiplatform, Micro-Controllers</p>
+  <p><b>Tools:</b> Git, Gradle, Android Studio, VSCode, Matlab, Fusion360, Terminal</p>
 </div>
 <br>
 <hr>
