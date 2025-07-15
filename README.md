@@ -13,11 +13,11 @@
   I am a Staff Software engineer with experience in all stages of the development lifecycle 
 </h4>
 <br>
-  <p>🔨 I'm currently working on <b>payment systems</b> for Android integrations.</p>
+  <p>🔨 I'm currently working in <b>core services</b> leveraging Android integrations.</p>
   <p>📚 I'm learning <b>Kotlin Multiplatform</b>, & <b>Ktor</b> to expand my mobile development skills.<p>
-  <p>🤝 I'm looking to collaborate on <b>open source hardware projects</b>. (Autonomous Rovers)<p>
-  <p>💡 I'm looking for help with <b>React</b>, <b>JavaScript</b>, & <b>GoLang</b> development.<p>
-  <p>💬 Ask me about <b>Point of Sale & Payment Systems</b> – I'd love to share insights!<p>
+  <p>🤝 I'm looking to collaborate on <b>open source projects</b>. (Blockchain)<p>
+  <p>💡 I'm learning <b>Python</b>, and pursuing <b>AWS-Architecture</b>.<p>
+  <p>💬 Ask me about <b>Point of Sale & Payment Systems</b> & <b>Hardware</b> – I'd love to share insights!<p>
   <p>🏳️ Pronouns: <b>he/him</b><p>
   <p>🤿 <b>Fun Fact:</b> I love scuba diving and spear fishing in my free time.<p>
 </div>
@@ -29,7 +29,7 @@
   <img src="https://media.giphy.com/media/SEj41wXuf54ClRlu6x/giphy.gif" width="100">
   <br>
   <p><b>Languages:</b> Kotlin, Swift, Java, C++, Python</p>
-  <p><b>Platforms:</b> Android, iOS, Kotlin Multiplatform, Micro-Controllers</p>
+  <p><b>Platforms:</b> Android, iOS, Kotlin Multiplatform, Micro-Controllers, Blockchain</p>
   <p><b>Tools:</b> Git, Gradle, Android Studio, VSCode, Matlab, Fusion360, Terminal</p>
 </div>
 <br>
@@ -39,8 +39,7 @@
   <br>
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnFzbW96ZHJ6Y3V0bDZ3YW5sdWVibzZwam1id3NvczJjeXpsbWk4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/leJ1zbov8L3qayn8jb/giphy.gif" width="150">
   <br>
-  <p>Exploring the future of <b>multiplatform payment systems</b></p>
-  <p>Collaborating on <b>open source hardware</b> for <b>Android/iOS/iOT</b> devices</p>
+  <p>Exploring the future of <b>Multiplatform Payment Systems</b> & <b>Token Economy</b></p>
 </div>
 <br>
 <hr>
