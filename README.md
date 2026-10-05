@@ -11,7 +11,9 @@
   <p>💬 Ask me about <b>POS Payment Systems</b> & <b>Hardware</b><p>
   <p>📚 I'm learning <b>Kotlin Multiplatform</b> to expand my mobile development skills.<p>
   <p>🤝 I'm looking to collaborate on <b>open source projects</b> for the Token Economy<p> 
-  <p>💡 I'm exploring <b>Solidity</b>, through codewars  <img src="https://www.codewars.com/users/paixols/badges/micro" alt="Codewars badge"><p>
+  <p>💡 I'm exploring <b>Other Languages</b>, through codewars  <img src="https://www.codewars.com/users/paixols/badges/micro" alt="Codewars badge"><p>
+  <p>⚽ I love <b>Fútbol</b>, checkout my <a href="https://football.engineer" class="project-link">WC-2026 archive</a></p>
+
 </div>
 <br>
 <hr>
